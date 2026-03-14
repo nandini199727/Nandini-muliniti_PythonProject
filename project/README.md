@@ -58,6 +58,9 @@ Notes:
 ## Sample Output
 Reports are saved under `output/` as both `.txt` and `.json` after each run.
 
+## Output
+https://github.com/nandini199727/Nandini-muliniti_PythonProject/blob/main/project/output/Screenshot%202026-03-14%20151610.pdf
+
 ## Tests
 ```bash
 python -m unittest discover -s tests -v
