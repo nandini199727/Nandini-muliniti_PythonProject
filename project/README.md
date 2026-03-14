@@ -59,7 +59,7 @@ Notes:
 Reports are saved under `output/` as both `.txt` and `.json` after each run.
 
 ## Output
-project/output/Screenshot 2026-03-14 151610.pdf
+ http/project/output/Screenshot 2026-03-14 151610.pdf
 
 ## Tests
 ```bash
