@@ -32,11 +32,6 @@ Optional flags:
 ```bash 
 python main.py --quiz data/sample_quiz.json --num 5 --shuffle --shuffle-options
 ```
-Optional flags :
-'''bash 
-python main.py --quiz data/sample_quiz.json --difficulty Easy
-
-'''
 
 ## Quiz JSON Format
 Each question is an object:
