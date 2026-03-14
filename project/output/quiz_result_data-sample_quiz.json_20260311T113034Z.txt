@@ -1,0 +1,32 @@
+Quiz Results
+========================================
+Quiz file: data/sample_quiz.json
+Total Questions: 3
+Correct: 2
+Incorrect: 1
+Score: 66.7%
+Duration: 16.3s
+
+Topic-wise Performance:
+- Python Basics: 2/3 (66.7%)
+
+Difficulty-wise Performance:
+- Easy: 2/3 (66.7%)
+
+Weak Areas (suggested focus):
+- Python Basics
+
+Question Details:
+1. [OK] (Python Basics | Easy) What is the output of print(2 ** 3)?
+   Your answer: B - 8
+   Correct: B - 8
+2. [OK] (Python Basics | Easy) Which data type is immutable?
+   Your answer: D - tuple
+   Correct: D - tuple
+3. [WRONG] (Python Basics | Easy) What is the output of len('abc')?
+   Your answer: C - 4
+   Correct: B - 3
+
+Performance Analytics:
+- Accuracy: 66.7%
+- Completed: 3/3

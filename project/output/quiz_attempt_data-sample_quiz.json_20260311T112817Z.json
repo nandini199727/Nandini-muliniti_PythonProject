@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "quiz_path": "data/sample_quiz.json",
+    "started_at_epoch": 1773228433.200398,
+    "finished_at_epoch": 1773228497.847077,
+    "duration_seconds": 64.64667892456055
+  },
+  "summary": {
+    "total_questions": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "percentage": 100.0,
+    "topic_breakdown": {
+      "Control Flow": [
+        1,
+        1,
+        100.0
+      ],
+      "File Handling": [
+        1,
+        1,
+        100.0
+      ],
+      "Python Basics": [
+        3,
+        3,
+        100.0
+      ]
+    },
+    "difficulty_breakdown": {
+      "Easy": [
+        5,
+        5,
+        100.0
+      ]
+    },
+    "weak_topics": []
+  },
+  "answers": [
+    {
+      "id": 6,
+      "topic": "Python Basics",
+      "difficulty": "Easy",
+      "question": "What is the output of len('abc')?",
+      "options": [
+        "Error",
+        "2",
+        "4",
+        "3"
+      ],
+      "selected_index": 3,
+      "selected_label": "D",
+      "selected_text": "3",
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_text": "3",
+      "is_correct": true
+    },
+    {
+      "id": 4,
+      "topic": "File Handling",
+      "difficulty": "Easy",
+      "question": "Which module is commonly used to parse JSON in Python (stdlib)?",
+      "options": [
+        "pickle",
+        "yaml",
+        "csv",
+        "json"
+      ],
+      "selected_index": 3,
+      "selected_label": "D",
+      "selected_text": "json",
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_text": "json",
+      "is_correct": true
+    },
+    {
+      "id": 1,
+      "topic": "Python Basics",
+      "difficulty": "Easy",
+      "question": "What is the output of print(2 ** 3)?",
+      "options": [
+        "8",
+        "9",
+        "6",
+        "12"
+      ],
+      "selected_index": 0,
+      "selected_label": "A",
+      "selected_text": "8",
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_text": "8",
+      "is_correct": true
+    },
+    {
+      "id": 2,
+      "topic": "Python Basics",
+      "difficulty": "Easy",
+      "question": "Which data type is immutable?",
+      "options": [
+        "tuple",
+        "dict",
+        "set",
+        "list"
+      ],
+      "selected_index": 0,
+      "selected_label": "A",
+      "selected_text": "tuple",
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_text": "tuple",
+      "is_correct": true
+    },
+    {
+      "id": 5,
+      "topic": "Control Flow",
+      "difficulty": "Easy",
+      "question": "What keyword skips to the next loop iteration?",
+      "options": [
+        "pass",
+        "continue",
+        "return",
+        "break"
+      ],
+      "selected_index": 1,
+      "selected_label": "B",
+      "selected_text": "continue",
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_text": "continue",
+      "is_correct": true
+    }
+  ]
+}

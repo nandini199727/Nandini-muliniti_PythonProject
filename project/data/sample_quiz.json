@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "topic": "Python Basics",
+    "question": "What is the output of print(2 ** 3)?",
+    "options": ["6", "8", "9", "12"],
+    "correct_answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "topic": "Python Basics",
+    "question": "Which data type is immutable?",
+    "options": ["list", "dict", "set", "tuple"],
+    "correct_answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "topic": "OOP",
+    "question": "Which method runs when you create a new object in Python?",
+    "options": ["__init__", "__repr__", "__call__", "__new__"],
+    "correct_answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "topic": "File Handling",
+    "question": "Which module is commonly used to parse JSON in Python (stdlib)?",
+    "options": ["json", "pickle", "yaml", "csv"],
+    "correct_answer": 0,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "topic": "Control Flow",
+    "question": "What keyword skips to the next loop iteration?",
+    "options": ["break", "continue", "pass", "return"],
+    "correct_answer": 1,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "topic": "Python Basics",
+    "question": "What is the output of len('abc')?",
+    "options": ["2", "3", "4", "Error"],
+    "correct_answer": 1,
+    "difficulty": "Easy"
+  }
+]
+

@@ -1,0 +1,37 @@
+Quiz Results
+========================================
+Quiz file: data/sample_quiz.json
+Total Questions: 5
+Correct: 5
+Incorrect: 0
+Score: 100.0%
+Duration: 64.6s
+
+Topic-wise Performance:
+- Control Flow: 1/1 (100.0%)
+- File Handling: 1/1 (100.0%)
+- Python Basics: 3/3 (100.0%)
+
+Difficulty-wise Performance:
+- Easy: 5/5 (100.0%)
+
+Question Details:
+1. [OK] (Python Basics | Easy) What is the output of len('abc')?
+   Your answer: D - 3
+   Correct: D - 3
+2. [OK] (File Handling | Easy) Which module is commonly used to parse JSON in Python (stdlib)?
+   Your answer: D - json
+   Correct: D - json
+3. [OK] (Python Basics | Easy) What is the output of print(2 ** 3)?
+   Your answer: A - 8
+   Correct: A - 8
+4. [OK] (Python Basics | Easy) Which data type is immutable?
+   Your answer: A - tuple
+   Correct: A - tuple
+5. [OK] (Control Flow | Easy) What keyword skips to the next loop iteration?
+   Your answer: B - continue
+   Correct: B - continue
+
+Performance Analytics:
+- Accuracy: 100.0%
+- Completed: 5/5

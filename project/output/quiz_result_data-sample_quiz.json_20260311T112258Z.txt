@@ -1,0 +1,41 @@
+Quiz Results
+========================================
+Quiz file: data/sample_quiz.json
+Total Questions: 6
+Correct: 6
+Incorrect: 0
+Score: 100.0%
+Duration: 520.8s
+
+Topic-wise Performance:
+- Control Flow: 1/1 (100.0%)
+- File Handling: 1/1 (100.0%)
+- OOP: 1/1 (100.0%)
+- Python Basics: 3/3 (100.0%)
+
+Difficulty-wise Performance:
+- Easy: 6/6 (100.0%)
+
+Question Details:
+1. [OK] (Python Basics | Easy) What is the output of print(2 ** 3)?
+   Your answer: B - 8
+   Correct: B - 8
+2. [OK] (Python Basics | Easy) Which data type is immutable?
+   Your answer: D - tuple
+   Correct: D - tuple
+3. [OK] (OOP | Easy) Which method runs when you create a new object in Python?
+   Your answer: A - __init__
+   Correct: A - __init__
+4. [OK] (File Handling | Easy) Which module is commonly used to parse JSON in Python (stdlib)?
+   Your answer: A - json
+   Correct: A - json
+5. [OK] (Control Flow | Easy) What keyword skips to the next loop iteration?
+   Your answer: B - continue
+   Correct: B - continue
+6. [OK] (Python Basics | Easy) What is the output of len('abc')?
+   Your answer: B - 3
+   Correct: B - 3
+
+Performance Analytics:
+- Accuracy: 100.0%
+- Completed: 6/6
