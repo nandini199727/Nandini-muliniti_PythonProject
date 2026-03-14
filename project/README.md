@@ -62,5 +62,11 @@ Reports are saved under `output/` as both `.txt` and `.json` after each run.
 ```bash
 python -m unittest discover -s tests -v
 ```
+## Author Information
+-Name: Nandini Ramlingappa Muliniti
+-Batch: ITC Infotech - Python Developer
+-Submission Date: 14 March 2026
+-Email: mulinitinandini@gmail.com
+
 
 
