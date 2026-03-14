@@ -59,8 +59,7 @@ Notes:
 Reports are saved under `output/` as both `.txt` and `.json` after each run.
 
 ## Output
- http/project/output/Screenshot 2026-03-14 151610.pdf
-
+ 
 ## Tests
 ```bash
 python -m unittest discover -s tests -v
